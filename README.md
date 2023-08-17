@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bilal Haj-M</h1>
-<h3 align="center">I'm on a journey as a front-end developer, currently at Re:Coded. I find joy in turning concepts into reality through code. The challenge of refining user experiences and mastering complex coding motivates me. Each project enriches my evolving portfolio. Let's connect and explore the evolving tech landscape together.</h3>
+<h3 >
+
+👋 A front-end enthusiast who graduated from Re:Coded. Proficient in HTML, CSS, and JavaScript, I'm on a quest to craft seamless user interfaces that dazzle.
+
+💻 I've brought designs to life through teamwork and personal projects, fueled by a passion for visual storytelling. As I dive into React and advanced frameworks, my portfolio reflects my dedication to merging design and code.
+
+🚀 Aspiring to excel as a front-end developer and React specialist, I'm thrilled by the endless potential in this realm. Let's conquer the world of front-end together!
+  
+</h3>
 - 🔭 I’m currently working on [LearnU](https://learnu.vercel.app/)
 
 - 📫 How to reach me **bblal1003@gmail.com**

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Haj-M</h1>
-<h3 >
+<h5 >
 
 👋 A front-end enthusiast who graduated from Re:Coded. Proficient in HTML, CSS, and JavaScript, I'm on a quest to craft seamless user interfaces that dazzle.
 
@@ -7,7 +7,7 @@
 
 🚀 Aspiring to excel as a front-end developer and React specialist, I'm thrilled by the endless potential in this realm. Let's conquer the world of front-end together!
   
-</h3>
+</h5>
 - 🔭 I’m currently working on [LearnU](https://learnu.vercel.app/)
 
 - 📫 How to reach me **bblal1003@gmail.com**

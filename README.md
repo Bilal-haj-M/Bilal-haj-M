@@ -3,7 +3,7 @@
 
 👋 A front-end enthusiast who graduated from Re:Coded. Proficient in HTML, CSS, and JavaScript, I'm on a quest to craft seamless user interfaces that dazzle.
     
-💻 I've brought designs to life through teamwork and personal projects, fueled by a passion for visual storytelling. As I dive into React and advanced      frameworks, my portfolio reflects my dedication to merging design and 
+💻 I've brought designs to life through teamwork and personal projects, fueled by a passion for visual storytelling. As I dive into React and advanced                                  frameworks, my portfolio reflects my dedication to merging design and 
     code.
 
 🚀 Aspiring to excel as a front-end developer and React specialist, I'm thrilled by the endless potential in this realm. Let's conquer the world of front-end together!

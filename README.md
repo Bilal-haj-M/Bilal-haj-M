@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-haj-m&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-haj-m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal-haj-m" alt="bilal-haj-m" /></a> </p>
+
 
 - 🔭 I’m currently working on [LearnU](https://learnu.vercel.app/)
 
@@ -20,4 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-haj-m&show_icons=true&locale=en&layout=compact" alt="bilal-haj-m" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-haj-m&show_icons=true&locale=en" alt="bilal-haj-m" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal-haj-m" alt="bilal-haj-m" /></a> </p>
 

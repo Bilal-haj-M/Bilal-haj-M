@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Haj-M</h1>
 <h3 align="center">I'm on a journey as a front-end developer, currently at Re:Coded. I find joy in turning concepts into reality through code. The challenge of refining user experiences and mastering complex coding motivates me. Each project enriches my evolving portfolio. Let's connect and explore the evolving tech landscape together.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-haj-m&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-haj-m" /> </p>
-
-
-
 - 🔭 I’m currently working on [LearnU](https://learnu.vercel.app/)
 
 - 📫 How to reach me **bblal1003@gmail.com**
@@ -20,5 +15,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-haj-m&show_icons=true&locale=en&layout=compact" alt="bilal-haj-m" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-haj-m&show_icons=true&locale=en" alt="bilal-haj-m" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-haj-m&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-haj-m" /> </p>
 
 

@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Bilal Haj-M</h1>
-<h5 >
+<h1 align="">Hi 👋, I'm Bilal Haj-M</h1>
+👋 A front-end enthusiast who graduated from Re:Coded. Proficient in HTML, CSS, and JavaScript, I'm on a quest to craft seamless user interfaces that dazzle.</h6> 
+   <h6>
+ 💻 I've brought designs to life through teamwork and personal projects, fueled by a passion for visual storytelling.</h6> 
+   <h6>
+ 🚀 Aspiring to excel as a front-end developer and React specialist, I'm thrilled by the endless potential in this realm.</h6>
 
-👋 A front-end enthusiast who graduated from Re:Coded. Proficient in HTML, CSS, and JavaScript, I'm on a quest to craft seamless user interfaces that dazzle.
-    
-💻 I've brought designs to life through teamwork and personal projects, fueled by a passion for visual storytelling.
 
-🚀 Aspiring to excel as a front-end developer and React specialist, I'm thrilled by the endless potential in this realm.
-</h5>
 - 🔭 I’m currently working on [LearnU](https://learnu.vercel.app/)
-
 
 - 📫 How to reach me **bblal1003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bilal-haj-m-9a5805239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-haj-m-9a5805239/" height="30" width="40" /></a>
 <a href="https://discord.gg/bilal_haj.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bilal_haj.m" height="30" width="40" /></a>
 </p>
 
@@ -24,6 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-haj-m&show_icons=true&locale=en" alt="bilal-haj-m" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-haj-m&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-haj-m" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-haj-m&" alt="bilal-haj-m" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-haj-m&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-haj-m" /> </p>
 

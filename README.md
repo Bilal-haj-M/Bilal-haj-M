@@ -1,9 +1,7 @@
 <h1 align="">Hi 👋, I'm Bilal Haj-M</h1>
-👋 A front-end enthusiast who graduated from Re:Coded. Proficient in HTML, CSS, and JavaScript, I'm on a quest to craft seamless user interfaces that dazzle.</h6> 
-   <h6>
- 💻 I've brought designs to life through teamwork and personal projects, fueled by a passion for visual storytelling.</h6> 
-   <h6>
- 🚀 Aspiring to excel as a front-end developer and React specialist, I'm thrilled by the endless potential in this realm.</h6>
+<h6>👋 A front-end enthusiast who graduated from Re:Coded. Proficient in HTML, CSS, and JavaScript, I'm on a quest to craft seamless user interfaces that dazzle.</h6> 
+<h6>💻 I've brought designs to life through teamwork and personal projects, fueled by a passion for visual storytelling.</h6> 
+<h6>🚀 Aspiring to excel as a front-end developer and React specialist, I'm thrilled by the endless potential in this realm.</h6>
 
 
 - 🔭 I’m currently working on [LearnU](https://learnu.vercel.app/)

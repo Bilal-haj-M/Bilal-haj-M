@@ -1,4 +1,4 @@
-<h1 align="">Hi 👋, I'm Bilal Haj-M</h1>
+<img align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, Bilal Haj-M. Front-end Web Developer | JavaScript/React!" src="https://cdn.discordapp.com/attachments/858665611314593802/1142121162244104263/Black_Gradient_Minimalist_Corporate_Business_Personal_Profile_New_LinkedIn_Banner.png" /></a></img>
 <h6>👋 A front-end dev who graduated from Re:Coded. Proficient in HTML, CSS, and JavaScript, I'm on a quest to craft seamless user interfaces that dazzle.</h6> 
 <h6>💻 I've brought designs to life through teamwork and personal projects, fueled by a passion for visual storytelling.</h6> 
 <h6>🚀 Aspiring to excel as a front-end developer and React specialist, I'm thrilled by the endless potential in this realm.</h6>
@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-haj-m&show_icons=true&locale=en" alt="bilal-haj-m" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-haj-m&" alt="bilal-haj-m" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-haj-m&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-haj-m" /> </p>
 

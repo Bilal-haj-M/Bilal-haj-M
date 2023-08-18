@@ -25,6 +25,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-haj-m&show_icons=true&locale=en" alt="bilal-haj-m" /></p>
 
+[![Furkan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bilal-haj-M&theme=github-compact&hide_border=true&radius=16&bg_color=151515&custom_title=My%20Activity%20Graph%20^_^&title_color=26a641)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-haj-m&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-haj-m" /> </p>
